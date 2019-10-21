@@ -1,0 +1,14 @@
+E:\Workspace\test\Adventure\AdventureClient\bin\Debug\netcoreapp2.2\AdventureClient.deps.json
+E:\Workspace\test\Adventure\AdventureClient\bin\Debug\netcoreapp2.2\AdventureClient.runtimeconfig.json
+E:\Workspace\test\Adventure\AdventureClient\bin\Debug\netcoreapp2.2\AdventureClient.runtimeconfig.dev.json
+E:\Workspace\test\Adventure\AdventureClient\bin\Debug\netcoreapp2.2\AdventureClient.dll
+E:\Workspace\test\Adventure\AdventureClient\obj\Debug\netcoreapp2.2\AdventureClient.csprojAssemblyReference.cache
+E:\Workspace\test\Adventure\AdventureClient\obj\Debug\netcoreapp2.2\AdventureClient.csproj.CoreCompileInputs.cache
+E:\Workspace\test\Adventure\AdventureClient\obj\Debug\netcoreapp2.2\AdventureClient.AssemblyInfoInputs.cache
+E:\Workspace\test\Adventure\AdventureClient\obj\Debug\netcoreapp2.2\AdventureClient.AssemblyInfo.cs
+E:\Workspace\test\Adventure\AdventureClient\bin\Debug\netcoreapp2.2\AdventureClient.pdb
+E:\Workspace\test\Adventure\AdventureClient\bin\Debug\netcoreapp2.2\AdventureGrainInterfaces.dll
+E:\Workspace\test\Adventure\AdventureClient\bin\Debug\netcoreapp2.2\AdventureGrainInterfaces.pdb
+E:\Workspace\test\Adventure\AdventureClient\obj\Debug\netcoreapp2.2\AdventureClient.csproj.CopyComplete
+E:\Workspace\test\Adventure\AdventureClient\obj\Debug\netcoreapp2.2\AdventureClient.dll
+E:\Workspace\test\Adventure\AdventureClient\obj\Debug\netcoreapp2.2\AdventureClient.pdb

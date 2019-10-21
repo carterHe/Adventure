@@ -1,0 +1,17 @@
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureSetup.deps.json
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureSetup.dll
+E:\Workspace\test\Adventure\AdventureSetup\obj\Debug\netcoreapp2.2\AdventureSetup.csproj.CoreCompileInputs.cache
+E:\Workspace\test\Adventure\AdventureSetup\obj\Debug\netcoreapp2.2\AdventureSetup.AssemblyInfoInputs.cache
+E:\Workspace\test\Adventure\AdventureSetup\obj\Debug\netcoreapp2.2\AdventureSetup.AssemblyInfo.cs
+E:\Workspace\test\Adventure\AdventureSetup\obj\Debug\netcoreapp2.2\AdventureSetup.csprojAssemblyReference.cache
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureSetup.pdb
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureGrainInterfaces.dll
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureGrains.dll
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureGrainInterfaces.pdb
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureGrains.pdb
+E:\Workspace\test\Adventure\AdventureSetup\obj\Debug\netcoreapp2.2\AdventureSetup.csproj.CopyComplete
+E:\Workspace\test\Adventure\AdventureSetup\obj\Debug\netcoreapp2.2\AdventureSetup.dll
+E:\Workspace\test\Adventure\AdventureSetup\obj\Debug\netcoreapp2.2\AdventureSetup.pdb
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureMap.json
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureSetup.runtimeconfig.json
+E:\Workspace\test\Adventure\AdventureSetup\bin\Debug\netcoreapp2.2\AdventureSetup.runtimeconfig.dev.json

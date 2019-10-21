@@ -1,0 +1,14 @@
+E:\Workspace\test\Adventure\AdventureGrains\bin\Debug\netcoreapp2.2\AdventureGrains.deps.json
+E:\Workspace\test\Adventure\AdventureGrains\bin\Debug\netcoreapp2.2\AdventureGrains.dll
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.csprojAssemblyReference.cache
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.csproj.CoreCompileInputs.cache
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.AssemblyInfoInputs.cache
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.AssemblyInfo.cs
+E:\Workspace\test\Adventure\AdventureGrains\bin\Debug\netcoreapp2.2\AdventureGrainInterfaces.dll
+E:\Workspace\test\Adventure\AdventureGrains\bin\Debug\netcoreapp2.2\AdventureGrainInterfaces.pdb
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.csproj.CopyComplete
+E:\Workspace\test\Adventure\AdventureGrains\bin\Debug\netcoreapp2.2\AdventureGrains.pdb
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.csproj.OrleansCodeGenInputs.cache
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.orleans.g.cs
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.dll
+E:\Workspace\test\Adventure\AdventureGrains\obj\Debug\netcoreapp2.2\AdventureGrains.pdb
